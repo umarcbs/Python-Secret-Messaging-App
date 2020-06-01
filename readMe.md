@@ -2,14 +2,14 @@
 A simple application created with simple code in python to encrypt and decrypt messages
 
 # How to Use
-In order to encrypt message
+In order to encrypt message, enter the command in python terminal
 ```sh
 python enc_dec_app.py
 ```
--Enter Name (optional)
--Enter Message
--Enter key (it will be used to decrypt the encrypted text)
--Enter mode:
+- Enter Name (optional)
+- Enter Message
+- Enter key (it will be used to decrypt the encrypted text)
+- Enter mode:
 ```sh
 e: encryption
 ```
